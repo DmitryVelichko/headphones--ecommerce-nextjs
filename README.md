@@ -1,5 +1,8 @@
 # Fullstack E-Commerce Website using Next.js, React, TypeScript, & Material UI
 
+![image](https://github.com/DmitryVelichko/headphones--ecommerce-nextjs/assets/42185328/4eeb9471-be02-4ca4-bf3a-471909f9148c)
+
+
 
 This is a [Next.js](https://nextjs.org/), [MUI v5](https://mui.com/) and [Typescript](https://github.com/microsoft/TypeScript) starter. You can use this to start your Next.js + MUI + Typescript development faster and easier.
 
